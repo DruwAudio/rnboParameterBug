@@ -1,0 +1,19 @@
+[
+  {
+    "name": "three-param-kink",
+    "preset": {
+      "Volume": {
+        "value": 0
+      },
+      "kink1": {
+        "value": 0
+      },
+      "kink2": {
+        "value": 0
+      },
+      "kink3": {
+        "value": 0.681765751508257
+      }
+    }
+  }
+]
