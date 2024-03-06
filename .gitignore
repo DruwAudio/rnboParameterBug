@@ -3,3 +3,5 @@ build/
 !/build/.gitkeep
 .vscode
 export/*
+cmake-build-*/
+.idea/
